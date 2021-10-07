@@ -15,7 +15,7 @@ global.Owner = {
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
   '60199782326': {
-    name: 'Adiixyz',
+    name: 'Kent',
     isReport: true, // if true this number will send if user use command /report or /join
   },
   '6285713964963': {
@@ -46,7 +46,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
+global.packname = 'wa.me/6287794419615'
 global.author = 'Metro Bot Is The Best'
 
 global.multiplier = 39 // The higher, The harder levelup
